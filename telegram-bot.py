@@ -3,7 +3,7 @@ from telebot import types
 
 
 
-bot_token = "6300190529:AAGeODSAqIWBG0J10iTMxkXiMXcmTpltV7Y"
+bot_token = "YOR_TOKEN"
 bot = telebot.TeleBot(bot_token)
 url = 'https://t.me/+-btZ8kkHuBVjZjJi'
 
